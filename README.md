@@ -15,20 +15,20 @@
 2. Developed a genetic algorithm that generates different bottle shapes by altering pixel values.
 3. Developed a genetic algorithm that generates different bottle shapes by altering the vectors values.
 
-![Original Images](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/Original.png)
+![Original Images](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/Original.PNG)
 
 ###Bottle Shapes after generations:
 
-![Generation: 37](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/37.png)
+![Generation: 37](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/37.PNG)
 
-![Generation: 42](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/42.png)
+![Generation: 42](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/42.PNG)
 
-![Generation: 46](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/46.png)
+![Generation: 46](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/46.PNG)
 
-![Generation: 55](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/55.png)
+![Generation: 55](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/55.PNG)
 
-![Generation: 108](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/108.png)
+![Generation: 108](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/108.PNG)
 
-![Generation: 503](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/503.png)
+![Generation: 503](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/503.PNG)
 
-![Generation: 645](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/645.png)
+![Generation: 645](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/645.PNG)
