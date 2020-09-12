@@ -17,20 +17,22 @@
 
 
 
-![Original Images](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/Original.PNG "Original Image")
+  ![/blob](https://github.com/shakshisinghai/Genetic_Algo_Projects/blob/master/Images/Original.PNG "Original Image")
 
-### Bottle Shapes after generations:
+  ### Bottle Shapes after generations:
 
-![Generation: 37](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/37.PNG?raw=true)
+  ![Generation: 37](https://github.com/shakshisinghai/Genetic_Algo_Projects/blob/master/Images/37.PNG?raw=true "Generation: 37")
 
-![Generation: 42](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/blob/master/Images/42.PNG "42")
+  ![Generation: 42](https://github.com/shakshisinghai/Genetic_Algo_Projects/blob/master/Images/42.PNG "Generation: 42")
 
-![Generation: 46](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/46.PNG "46")
+  ![Generation: 46](https://github.com/shakshisinghai/Genetic_Algo_Projects/blob/master/Images/46.PNG "Generation: 46")
 
-![Generation: 55](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/55.PNG "55")
+  ![Generation: 55](https://github.com/shakshisinghai/Genetic_Algo_Projects/blob/master/Images/55.PNG "Generation: 55")
 
-![Generation: 108](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/108.PNG "108")
+  ![Generation: 108](https://github.com/shakshisinghai/Genetic_Algo_Projects/blob/master/Images/108.PNG "Generation: 108")
 
-![Generation: 503](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/503.PNG "503")
+  ![Generation: 503](https://github.com/shakshisinghai/Genetic_Algo_Projects/blob/master/Images/503.PNG "Generation: 503")
 
-![Generation: 645](https://github.com/shakshisinghai/Genetic_Algo_Projects/tree/master/Images/645.PNG "645")
+  ![Generation: 645](https://github.com/shakshisinghai/Genetic_Algo_Projects/blob/master/Images/645.PNG "Generation: 645")
+
+
