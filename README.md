@@ -14,6 +14,8 @@
 1. Coded a genetic algorithm that generates a sentence similar to original sentence based on fitness function to understand the working and effects of tweaking various parameters.
 2. Developed a genetic algorithm that generates different bottle shapes by altering pixel values.
 3. Developed a genetic algorithm that generates different bottle shapes by altering the vectors values.
+   
+## Generating Bottle by altering vector value   
    ### Fitness function
     * Compares the population with the original image and calculates the fitness 
 score. 
