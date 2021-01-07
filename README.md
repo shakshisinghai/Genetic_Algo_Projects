@@ -5,6 +5,8 @@
 * Based on natural selection and genetics.
 * Simulate “survival of the fittest”
 * Generate population and see how they are evolving with time
+* if population size is more : then time to complete a generation increases 
+if population size is less then time to get final output increases
 
 
 ### Rules:
