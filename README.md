@@ -4,6 +4,8 @@
 * Search-based optimization technique.
 * Based on natural selection and genetics.
 * Simulate “survival of the fittest”
+* Generate population and see how they are evolving with time
+
 
 ### Rules:
 * **Selection rules** prefers to the individuals with good fitness scores and allow them to pass there genes to the successive generations.
